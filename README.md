@@ -3,7 +3,7 @@
 BMI Calculator
 
 ## Screenshots
-![Screenshot_1711022982](https://github.com/magdalenalonc/bmi_calculator/assets/109544644/92910a3d-fa9d-4d75-ad7a-7bc7cd384676)
-![Screenshot_1711022966](https://github.com/magdalenalonc/bmi_calculator/assets/109544644/c2226d4e-a6d7-472f-8b2d-886485d20a7c)
-![Screenshot_1711022960](https://github.com/magdalenalonc/bmi_calculator/assets/109544644/92ad87c8-922e-4cc3-9f19-ee03950eeeb1)
-![Screenshot_1711022945](https://github.com/magdalenalonc/bmi_calculator/assets/109544644/d1312ec4-3369-496b-9eb6-b834baaa4c19)
+<img width="144" alt="Screenshot_1711022945" src="https://github.com/magdalenalonc/bmi_calculator/assets/109544644/68d1b7a2-0640-4e78-9ec6-9820388f3596">
+<img width="144" alt="Screenshot_1711022960" src="https://github.com/magdalenalonc/bmi_calculator/assets/109544644/f67be660-ff7f-41cd-8df3-210b2d755ba7">
+<img width="144" alt="Screenshot_1711022966" src="https://github.com/magdalenalonc/bmi_calculator/assets/109544644/c08d9479-c9a9-4b89-bb67-5249cf0a3af6">
+<img width="144" alt="Screenshot_1711022982" src="https://github.com/magdalenalonc/bmi_calculator/assets/109544644/64188cfa-fe73-4eeb-a706-8a51e07ac293">
